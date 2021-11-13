@@ -13,7 +13,7 @@ iPhoneアプリ開発（iOSアプリ開発）、Swift言語、SwiftUIを学習�
 イベントの開催方法は、セッション、相談会、座談会です。  
 
 ### 運営メディア
-- [イベント申し込みページ](https://codecandy.connpass.com/)
+- [connpass:イベント申し込みページ](https://codecandy.connpass.com/)
 
 ## 主催者：CodeCandy（コードキャンディ）
 CodeCandyは、スマホアプリ開発専門のオンラインスクールです。
