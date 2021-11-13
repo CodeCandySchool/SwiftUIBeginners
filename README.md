@@ -30,7 +30,7 @@ CodeCandyは、スマホアプリ開発専門のオンラインスクールで�
 
 ### 運営企業：TickleCode LLC（ティクルコード）
 
-<a href="https://ticklecode.com/"><img src="https://ticklecode.com/wp/wp-content/uploads/2016/06/logo_ticklecode.png"></a>
+<a href="https://ticklecode.com/"><img src="https://ticklecode.com/wp/wp-content/uploads/2016/06/logo_ticklecode.png" width="230"></a>
 
 スマホアプリ開発に特化した事業をしています。  
 Swift言語、Dart言語（Flutter）を活用した開発が得意分野です。  
